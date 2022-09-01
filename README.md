@@ -10,7 +10,7 @@ NewBlackjack file allows user to play the game from the terminal.
 
 Note: In our simplified rule set, an ace is worth 11 points. In an actual game, an ace can be either 1 or 11.
 
-## 🚀 Running Blackjack:
+## 🚀 Running NewBlackjack:
 To run Blackjack on the file NewBlackjack
 
 ```sh
@@ -18,7 +18,7 @@ javac NewBlackjack.java
 java NewBlackjac
 ```
 
-## 👀 Example Running Sudoku:
+## 👀 Example Running NewBlackjack:
 <p align="center">
  <a href="https://im.ge/i/OEXXhm"><img src="https://i.im.ge/2022/08/31/OEXXhm.Screen-Shot-2022-08-31-at-3-07-56-PM.md.png" alt="Screen Shot 2022-08-31 at 3.07.56 PM" border="0"></a>
 </p>
