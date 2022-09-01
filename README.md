@@ -1,10 +1,14 @@
 # BLACKJACK 
 
 A simple version of the card game Blackjack in Java. 
+
 Blackjack file simulates the game with dealer and player randomly draw cards.
 NewBlackjack file allows user to play the game from the terminal. 
 
+
 <a href="https://bicyclecards.com/how-to-play/blackjack/">Read more about Blackjack's rules here</a>
+
+Note: In our simplified rule set, an ace is worth 11 points. In an actual game, an ace can be either 1 or 11.
 
 ## 🚀 Running Blackjack:
 To run Blackjack on the file NewBlackjack
