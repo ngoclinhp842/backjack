@@ -19,9 +19,7 @@ java NewBlackjac
 ```
 
 ## 👀 Example Running NewBlackjack:
-<p align="center">
- <a href="https://im.ge/i/OEXXhm"><img src="https://i.im.ge/2022/08/31/OEXXhm.Screen-Shot-2022-08-31-at-3-07-56-PM.md.png" alt="Screen Shot 2022-08-31 at 3.07.56 PM" border="0"></a>
-</p>
+[![Screen-Shot-2022-09-30-at-2-15-42-PM.png](https://i.postimg.cc/T1D3STwS/Screen-Shot-2022-09-30-at-2-15-42-PM.png)](https://postimg.cc/tn9bnQFt)
 
 ## 📝 Analysis:
 1000 simulations of Blackjack game suggests that the dealer has a higher chance of winning (about 47%) than the player (around 43%) and tie (around 8%).
